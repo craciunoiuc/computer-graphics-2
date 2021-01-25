@@ -10,9 +10,9 @@ Homework:
  2. Image segmentation & unification 50% complete
 
 Project: 3D Raytracing. A GPU vs CPU comparison 100% complete
+ 
  Teammate: [Mihai Gheoace](https://github.com/sdgMihai)
  
 Special thanks to: 
  * https://github.com/ArturKovacs/GL-raytracer
  * https://github.com/RayTracing/raytracing.github.io
-
